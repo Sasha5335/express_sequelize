@@ -1,0 +1,17 @@
+{
+  "development": {
+    "user": "postgres",
+    "password": "5335",
+    "host": "localhost",
+    "database": "fe_things",
+    "port": 5432
+  },
+  "test": {
+    "user": "postgres",
+    "password": "5335",
+    "host": "localhost",
+    "database": "fe_things_test",
+    "port": 5432
+  },
+  "production": {}
+}
